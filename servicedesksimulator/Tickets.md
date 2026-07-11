@@ -4,6 +4,7 @@
 
 **Problem:** An agent's desktop wouldn't turn on, so they couldn't take calls.
 
+
 **What I did:**
 - First ruled out a simple power problem and had the agent try a different outlet and power cable. Still nothing.
 - Confirmed it was a desktop, and realized the machine was too old to run the software the agent needs (like the phone system), so repairing it wasn't really an option.
@@ -11,7 +12,10 @@
 - Checked everything looked right afterward — correct name, encryption on, apps installed.
 
 
+
 **Root cause:** The old desktop was dead and outdated, so a fresh reimaged machine was the real fix instead of trying to repair it.
+
+
 
 **Outcome:** Shipped the new machine to the agent, they plugged it in, and it worked right away
 
@@ -19,7 +23,7 @@
 
 
 
-
+![resolved ticket](https://github.com/InternetCharger/Help-Desk-Ticket-Simulator/blob/81130d985db4b9f4cf879b76d9c3a8db26490bce/Images/pt%205.png)
 
 
 
